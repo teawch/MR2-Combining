@@ -15,10 +15,10 @@ Arrow Head/Henger        | 3 | 3 | 2 | 3 | 3 | 4 || D L Sk P Sp I || D L Sk P Sp
 Arrow Head/Joker         | 3 | 3 | 3 | 4 | 2 | 4 || D Sk I P L Sp || D Sk I P L Sp
 Arrow Head/Mock          | 2 | 3 | 3 | 3 | 2 | 4 || D I P Sk L Sp || D I P Sk L Sp
 Arrow Head/Suezo         | 3 | 3 | 3 | 3 | 2 | 4 || D I P Sk L Sp || D I P Sk L Sp
-Sumopion                 | 3 | 3 | 2 | 3 | 2 | 5 || D L P I Sp Sk || D L P Sk I Sp
+Sumopion                 | 3 | 3 | 3 | 3 | 2 | 4 || D L P I Sp Sk || D L P I Sk Sp
 Bajarl/Bajarl            | 3 | 4 | 2 | 4 | 3 | 2 || P Sk Sp L I D || P Sk Sp L I D
 Bajarl/Joker             | 3 | 4 | 3 | 4 | 3 | 2 || P Sk I Sp L D || P Sk I Sp L D
-Boxer Bajarl             | 3 | 4 | 2 | 4 | 3 | 2 || P Sk Sp L I D || P Sk Sp L I D
+Boxer Bajarl             | 3 | 4 | 3 | 4 | 3 | 2 || P Sk Sp L I D || P Sk Sp L I D
 Magic Bajarl             | 3 | 4 | 2 | 4 | 3 | 2 || P Sk Sp L I D || P Sk Sp L I D
 Ultrarl                  | 3 | 4 | 2 | 4 | 3 | 2 || P Sk Sp L I D || P Sk Sp L I D
 Baku/Baku                | 5 | 4 | 1 | 2 | 1 | 3 || L D P Sk Sp I || L P D Sk Sp I
@@ -30,7 +30,7 @@ Baku/Jell                | 4 | 3 | 2 | 3 | 1 | 3 || L D P Sk I Sp || L D P Sk I 
 Baku/Joker               | 4 | 4 | 3 | 3 | 1 | 3 || L P D Sk I Sp || L P D Sk I Sp
 Baku/Kato                | 4 | 3 | 3 | 2 | 3 | 3 || L D I P Sp Sk || L D I P Sp Sk
 Baku/Tiger               | 4 | 3 | 2 | 3 | 2 | 2 || L P Sk D Sp I || L P Sk D Sp I
-Shishi                   | 5 | 4 | 1 | 2 | 1 | 3 || L D P Sk Sp I || L P D Sk Sp I
+Shishi                   | 4 | 4 | 2 | 2 | 1 | 4 || L D P Sk Sp I || L D P Sk I Sp
 Beaclon/Bajarl           | 4 | 4 | 1 | 3 | 2 | 3 || P L D Sk Sp I || P L D Sk Sp I
 Beaclon/Beaclon          | 4 | 4 | 1 | 2 | 2 | 4 || P D L Sp Sk I || P D L Sp Sk I
 Beaclon/Dragon           | 4 | 4 | 3 | 2 | 2 | 4 || P D L I Sp Sk || P D L I Sp Sk
@@ -40,8 +40,8 @@ Beaclon/Golem            | 4 | 4 | 2 | 2 | 2 | 4 || P D L Sp I Sk || P D L Sp I 
 Beaclon/Henger           | 3 | 4 | 2 | 3 | 3 | 3 || P D Sp Sk L I || P D Sp Sk L I
 Beaclon/Joker            | 4 | 4 | 3 | 3 | 2 | 3 || P I L D Sk Sp || P L I D Sk Sp
 Beaclon/Tiger            | 3 | 3 | 2 | 3 | 3 | 3 || Sk D P L Sp I || Sk D P L Sp I
-Eggplantern              | 4 | 4 | 1 | 2 | 2 | 4 || P D L Sp Sk I || P D L Sp Sk I
-Centaur/Arrow Head       | 3 | 3 | 3 | 4 | 2 | 3 || Sp Sk D I P L || Sk D I P L Sp
+Eggplantern              | 3 | 4 | 2 | 3 | 3 | 3 || P D L Sp Sk I || P D L Sp Sk I
+Centaur/Arrowhead        | 3 | 3 | 3 | 4 | 2 | 3 || Sp Sk D I P L || Sk D I P L Sp
 Centaur/Bajarl           | 3 | 3 | 3 | 5 | 2 | 2 || Sk Sp I P L D || Sk I P L Sp D
 Centaur/Centaur          | 3 | 3 | 4 | 5 | 2 | 2 || Sk Sp I P L D || Sk I P L Sp D
 Centaur/Dragon           | 3 | 4 | 4 | 4 | 2 | 2 || Sp I P Sk L D || I P Sk L Sp D
@@ -50,14 +50,14 @@ Centaur/Golem            | 3 | 4 | 4 | 3 | 2 | 3 || Sp I P D Sk L || I P D Sk L 
 Centaur/Joker            | 3 | 3 | 4 | 5 | 2 | 2 || Sk Sp I P L D || Sk I P L Sp D
 Centaur/Pixie            | 2 | 3 | 4 | 5 | 3 | 2 || Sk I Sp P D L || Sk I Sp P D L
 Centaur/Tiger            | 3 | 3 | 4 | 5 | 3 | 2 || Sp Sk I P L D || Sk I Sp P L D
-Trotter                  | 3 | 3 | 4 | 5 | 2 | 2 || Sk Sp I P L D || Sk I P L Sp D
-Blue Thunder             | 3 | 3 | 4 | 5 | 2 | 2 || Sk Sp I P L D || Sk I P L Sp D
+Blue Thunder             | 3 | 4 | 4 | 4 | 2 | 2 || Sk Sp I P L D || Sk I P L Sp D
+Trotter                  | 3 | 3 | 4 | 5 | 3 | 2 || Sk Sp I P L D || Sk I Sp P L D
 Colorpandora/Colorpandora| 5 | 2 | 2 | 3 | 3 | 1 || L Sp Sk D P I || L Sp Sk P I D
 Colorpandora/Jell        | 4 | 2 | 3 | 3 | 3 | 2 || L Sp Sk D I P || L Sp Sk I D P
 Colorpandora/Pixie       | 3 | 2 | 3 | 3 | 3 | 1 || I Sp Sk L P D || I Sp Sk L P D
 Dice                     | 5 | 2 | 2 | 3 | 3 | 1 || L Sp Sk D P I || L Sp Sk P I D
-Tram                     | 5 | 2 | 2 | 3 | 3 | 1 || L Sp Sk D P I || L Sp Sk P I D
-Dragon/Arrow Head        | 3 | 4 | 4 | 3 | 2 | 4 || P I D Sk L Sp || P I D Sk L Sp
+Tram                     | 4 | 2 | 3 | 3 | 3 | 2 || L Sp Sk D P I || L Sp Sk I D P
+Dragon/Arrowhead         | 3 | 4 | 4 | 3 | 2 | 4 || P I D Sk L Sp || P I D Sk L Sp
 Dragon/Bajarl            | 3 | 5 | 4 | 3 | 2 | 3 || P I Sk D L Sp || P I Sk D L Sp
 Dragon/Beaclon           | 3 | 5 | 3 | 3 | 2 | 3 || P I Sk D L Sp || P I Sk D L Sp
 Dragon/Dragon            | 3 | 5 | 5 | 3 | 2 | 3 || P I Sk D L Sp || P I Sk D L Sp
@@ -71,13 +71,13 @@ Dragon/Metalner          | 3 | 4 | 3 | 4 | 2 | 4 || D Sk I P Sp L || D Sk P I L 
 Dragon/Monol             | 3 | 4 | 4 | 3 | 2 | 4 || P I D Sk L Sp || P I D Sk L Sp
 Dragon/Pixie             | 2 | 4 | 5 | 3 | 3 | 2 || I P Sk D Sp L || I P Sk Sp D L
 Dragon/Tiger             | 3 | 4 | 5 | 4 | 3 | 2 || I P Sk L Sp D || I P Sk L Sp D
-Moo                      | 3 | 5 | 5 | 3 | 2 | 3 || P I Sk D L Sp || P I Sk D L Sp
+Moo                      | 4 | 4 | 1 | 2 | 2 | 4 || P I Sk D L Sp || P D L Sk Sp I
 Ducken/Ducken            | 3 | 3 | 3 | 4 | 5 | 1 || Sk I Sp P L D || Sp Sk I P L D
 Ducken/Golem             | 3 | 4 | 3 | 3 | 3 | 3 || P Sk I D Sp L || P Sk I D Sp L
 Ducken/Suezo             | 3 | 3 | 4 | 4 | 4 | 1 || Sk Sp I P L D || Sk Sp I P L D
+Cawken                   | 3 | 4 | 3 | 3 | 3 | 3 || Sk I Sp P L D || P Sk I Sp L D
 Watermelony              | 3 | 3 | 3 | 4 | 5 | 1 || Sk I Sp P L D || Sp Sk I P L D
-Cawken                   | 3 | 3 | 3 | 4 | 5 | 1 || Sk I Sp P L D || Sp Sk I P L D
-Durahan/Arrow Head       | 3 | 4 | 3 | 3 | 1 | 5 || D P L Sk I Sp || D P L Sk I Sp
+Durahan/Arrowhead        | 3 | 4 | 3 | 3 | 1 | 5 || D P L Sk I Sp || D P L Sk I Sp
 Durahan/Beaclon          | 3 | 4 | 2 | 3 | 1 | 5 || D P Sk L I Sp || D P Sk L I Sp
 Durahan/Dragon           | 3 | 4 | 4 | 3 | 1 | 4 || I D P Sk L Sp || I D P Sk L Sp
 Durahan/Durahan          | 3 | 4 | 3 | 3 | 1 | 5 || D P Sk L I Sp || D P Sk L I Sp
@@ -88,9 +88,9 @@ Durahan/Mock             | 2 | 3 | 4 | 3 | 1 | 4 || D I P Sk L Sp || D I P Sk L 
 Durahan/Phoenix          | 3 | 3 | 4 | 3 | 2 | 4 || D I P Sk L Sp || D I P Sk L Sp
 Durahan/Pixie            | 2 | 3 | 4 | 3 | 2 | 3 || I Sk D P Sp L || I Sk D P Sp L
 Durahan/Tiger            | 3 | 3 | 3 | 4 | 2 | 3 || Sk L I P D Sp || Sk L I P D Sp
-Shogun                   | 3 | 4 | 3 | 3 | 1 | 5 || D P Sk L I Sp || D P Sk L I Sp
-Ruby Knight              | 3 | 4 | 3 | 3 | 1 | 5 || D P Sk L I Sp || D P Sk L I Sp
-Kokushi Muso             | 3 | 4 | 3 | 3 | 1 | 5 || D P Sk L I Sp || D P Sk L I Sp
+Kokushi Muso             | 3 | 3 | 2 | 4 | 1 | 5 || D P Sk L I Sp || D Sk P L I Sp
+Ruby Knight              | 3 | 4 | 4 | 3 | 1 | 4 || D P Sk L I Sp || D P I Sk L Sp
+Shogun                   | 3 | 3 | 4 | 3 | 1 | 4 || D P Sk L I Sp || D I P Sk L Sp
 Gaboo/Gaboo              | 5 | 4 | 1 | 1 | 4 | 1 || L Sp P D Sk I || L Sp P D Sk I
 Gaboo/Jell               | 4 | 3 | 2 | 2 | 3 | 2 || L P Sp D I Sk || L P Sp D I Sk
 Gaboo/Joker              | 4 | 4 | 3 | 3 | 3 | 1 || L P I Sk Sp D || L P I Sk Sp D
@@ -108,10 +108,10 @@ Gali/Suezo               | 2 | 3 | 5 | 3 | 2 | 3 || I P Sk D Sp L || I P Sk D Sp
 Gali/Tiger               | 2 | 3 | 5 | 4 | 3 | 2 || I Sk P Sp D L || I Sk P Sp D L
 Gali/Worm                | 3 | 3 | 4 | 3 | 2 | 3 || I Sk P L D Sp || I Sk P L D Sp
 Gali/Zuum                | 2 | 3 | 4 | 3 | 2 | 3 || I P Sk D L Sp || I P Sk D L Sp
-Happy Mask               | 2 | 4 | 5 | 3 | 2 | 3 || I P Sk L D Sp || I P Sk D L Sp
+Happy Mask               | 2 | 3 | 5 | 3 | 3 | 2 || I P Sk L D Sp || I P Sk Sp L D
 Ghost/Ghost              | 1 | 1 | 4 | 4 | 4 | 1 || Sp Sk I L P D || Sp Sk I L P D
 Chef                     | 1 | 1 | 4 | 4 | 4 | 1 || Sp Sk I L P D || Sp Sk I L P D
-Golem/Arrow Head         | 3 | 4 | 3 | 2 | 1 | 5 || D P L I Sk Sp || D P L I Sk Sp
+Golem/Arrowhead          | 3 | 4 | 3 | 2 | 1 | 5 || D P L I Sk Sp || D P L I Sk Sp
 Golem/Bajarl             | 3 | 5 | 3 | 2 | 2 | 4 || P D I L Sk Sp || P D I L Sk Sp
 Golem/Baku               | 4 | 5 | 2 | 1 | 1 | 4 || P D L I Sk Sp || P D L I Sk Sp
 Golem/Beaclon            | 3 | 5 | 2 | 1 | 1 | 5 || P D L I Sk Sp || P D L I Sk Sp
@@ -135,7 +135,7 @@ Golem/Worm               | 4 | 4 | 3 | 2 | 1 | 4 || P L D I Sk Sp || P L D I Sk 
 Golem/Wracky             | 3 | 3 | 3 | 1 | 2 | 3 || P D I L Sp Sk || P D I L Sp Sk
 Golem/Zilla              | 3 | 4 | 4 | 2 | 1 | 4 || D P I L Sk Sp || D P I L Sk Sp
 Golem/Zuum               | 3 | 4 | 3 | 2 | 2 | 4 || P D I L Sp Sk || P D I L Sp Sk
-ForwardGolem             | 3 | 5 | 3 | 1 | 1 | 5 || P D I L Sk Sp || P D I L Sk Sp
+ForwardGolem             | 3 | 4 | 3 | 1 | 1 | 5 || P D I L Sk Sp || D P I L Sk Sp
 Hare/Gali                | 3 | 4 | 3 | 3 | 4 | 2 || Sp P Sk L I D || Sp P Sk L I D
 Hare/Golem               | 3 | 5 | 2 | 2 | 3 | 3 || P D Sp L Sk I || P D Sp L Sk I
 Hare/Hare                | 3 | 5 | 1 | 3 | 5 | 1 || Sp P Sk I L D || Sp P Sk L I D
@@ -157,7 +157,7 @@ Henger/Metalner          | 2 | 3 | 2 | 4 | 3 | 3 || Sk Sp P D I L || Sk Sp P D I
 Henger/Mock              | 2 | 3 | 4 | 3 | 3 | 2 || I Sp Sk P L D || I Sp Sk P L D
 Henger/Monol             | 2 | 4 | 3 | 3 | 3 | 3 || P Sp Sk D I L || P Sp Sk D I L
 Henger/Zuum              | 2 | 4 | 3 | 4 | 4 | 2 || Sp Sk P I L D || Sp Sk P I L D
-Skeleton                 | 2 | 4 | 3 | 4 | 4 | 2 || Sp Sk P I L D || Sp Sk P I L D
+Skeleton                 | 2 | 4 | 4 | 4 | 3 | 2 || Sp Sk P I L D || Sk P I Sp L D
 Hopper/Bajarl            | 2 | 3 | 3 | 5 | 3 | 1 || Sk Sp I P L D || Sk Sp I P L D
 Hopper/Dragon            | 2 | 4 | 4 | 4 | 3 | 2 || Sk I Sp P D L || Sk I P Sp D L
 Hopper/Hopper            | 2 | 3 | 3 | 5 | 3 | 1 || Sk Sp I P D L || Sk Sp I P L D
@@ -170,7 +170,7 @@ Hopper/Mock              | 2 | 3 | 4 | 4 | 3 | 1 || I Sk Sp L P D || I Sk Sp P L
 Hopper/Pixie             | 2 | 3 | 4 | 5 | 3 | 1 || Sk I Sp P L D || Sk I Sp P L D
 Hopper/Suezo             | 2 | 3 | 4 | 5 | 3 | 1 || Sk I Sp P L D || Sk I Sp P L D
 Hopper/Tiger             | 2 | 3 | 3 | 5 | 3 | 1 || Sk Sp I P L D || Sk Sp I P L D
-Frog Hopper              | 2 | 3 | 3 | 5 | 3 | 1 || Sk Sp I P D L || Sk Sp I P L D
+Frog Hopper              | 2 | 3 | 3 | 5 | 3 | 2 || Sk Sp I P D L || Sk Sp I P D L
 Jell/Gali                | 3 | 2 | 4 | 4 | 2 | 4 || D I Sk Sp L P || D I Sk L Sp P
 Jell/Golem               | 3 | 3 | 4 | 3 | 2 | 4 || D I Sk P L Sp || D I Sk P L Sp
 Jell/Hare                | 3 | 3 | 3 | 4 | 3 | 3 || Sk D I Sp P L || Sk D I Sp P L
@@ -183,7 +183,7 @@ Jell/Suezo               | 3 | 2 | 4 | 4 | 2 | 3 || I Sk D L P Sp || I Sk D L P 
 Jell/Tiger               | 3 | 2 | 4 | 4 | 3 | 3 || I Sk D Sp P L || I Sk D Sp L P
 Jell/Worm                | 4 | 2 | 4 | 4 | 2 | 3 || I Sk D L Sp P || I Sk L D Sp P
 Jell/Zuum                | 3 | 2 | 3 | 4 | 2 | 4 || D Sk I Sp L P || D Sk I L Sp P
-Metal Jell               | 3 | 2 | 4 | 4 | 2 | 4 || D I Sk Sp L P || D I Sk L Sp P
+Metal Jell               | 3 | 2 | 4 | 3 | 2 | 4 || D I Sk Sp L P || D I Sk L Sp P
 Jill/Hare                | 3 | 4 | 3 | 2 | 3 | 2 || P L Sp I Sk D || P L Sp I Sk D
 Jill/Jill                | 3 | 4 | 4 | 2 | 2 | 3 || P I L D Sk Sp || P I L D Sk Sp
 Jill/Joker               | 3 | 4 | 4 | 3 | 2 | 3 || P I Sk D L Sp || P I Sk D L Sp
@@ -191,14 +191,14 @@ Jill/Kato                | 3 | 3 | 4 | 2 | 3 | 3 || I P D L Sp Sk || I P D L Sp 
 Jill/Pixie               | 2 | 3 | 4 | 3 | 3 | 2 || I P Sk Sp D L || I P Sk Sp D L
 Jill/Suezo               | 3 | 4 | 4 | 3 | 2 | 3 || P I L Sk D Sp || P I L Sk D Sp
 Jill/Tiger               | 3 | 3 | 4 | 3 | 3 | 2 || I P L Sk Sp D || I P L Sk Sp D
-Pithecan                 | 3 | 4 | 4 | 2 | 2 | 3 || P I L D Sk Sp || P I L D Sk Sp
+Pithecan                 | 3 | 4 | 4 | 3 | 2 | 3 || P I L D Sk Sp || P I L D Sk Sp
 Joker/Bajarl             | 3 | 3 | 4 | 5 | 2 | 2 || Sk I P L D Sp || Sk I P L D Sp
 Joker/Dragon             | 3 | 4 | 5 | 4 | 2 | 2 || I Sk P L Sp D || I Sk P L Sp D
 Joker/Golem              | 3 | 4 | 4 | 3 | 2 | 3 || I P Sk L Sp D || I P Sk L D Sp
 Joker/Joker              | 3 | 3 | 5 | 5 | 2 | 2 || I Sk L P Sp D || I Sk L P Sp D
 Joker/Pixie              | 2 | 3 | 5 | 5 | 3 | 2 || Sk I Sp P L D || Sk I Sp P L D
 Joker/Tiger              | 3 | 3 | 5 | 5 | 3 | 2 || Sk I Sp L P D || Sk I Sp L P D
-Bloodshed                | 3 | 3 | 5 | 5 | 2 | 2 || I Sk L P Sp D || I Sk L P Sp D
+Bloodshed                | 3 | 3 | 4 | 5 | 2 | 2 || I Sk L P Sp D || Sk I L P Sp D
 Kato/Dragon              | 2 | 3 | 5 | 3 | 4 | 2 || I Sp Sk P D L || I Sp Sk P D L
 Kato/Gali                | 2 | 2 | 5 | 3 | 4 | 2 || I Sp Sk D L P || I Sp Sk D L P
 Kato/Joker               | 2 | 2 | 4 | 3 | 5 | 3 || Sp I Sk D L P || Sp I Sk D L P
@@ -206,17 +206,17 @@ Kato/Kato                | 2 | 1 | 5 | 3 | 5 | 2 || I Sp Sk D L P || I Sp Sk D L
 Kato/Mocchi              | 2 | 2 | 5 | 4 | 4 | 2 || I Sp Sk D P L || I Sp Sk D P L
 Kato/Suezo               | 2 | 2 | 4 | 3 | 5 | 3 || Sp I D Sk P L || Sp I D Sk P L
 Kato/Tiger               | 2 | 1 | 5 | 4 | 5 | 2 || I Sp Sk D L P || I Sp Sk D L P
-Ninja Kato               | 2 | 1 | 5 | 3 | 5 | 2 || I Sp Sk D L P || I Sp Sk D L P
+Ninja Kato               | 2 | 2 | 5 | 4 | 4 | 2 || I Sp Sk D L P || I Sp Sk D L P
 Metalner/Metalner        | 3 | 2 | 1 | 5 | 1 | 5 || D Sk L Sp P I || D Sk L P Sp I
 Metalner/Pixie           | 2 | 2 | 3 | 5 | 2 | 3 || Sk D I Sp L P || Sk D I Sp L P
 Metalner/Suezo           | 3 | 2 | 3 | 5 | 1 | 4 || Sk D I P L Sp || Sk D I L P Sp
-Chinois                  | 3 | 2 | 1 | 5 | 1 | 5 || D Sk L Sp P I || D Sk L P Sp I
+Chinois                  | 2 | 2 | 3 | 5 | 2 | 3 || D Sk L Sp P I || Sk D I L Sp P
 Mew/Hare                 | 4 | 3 | 2 | 4 | 4 | 2 || Sp Sk L P D I || Sp Sk L P D I
 Mew/Jell                 | 4 | 2 | 3 | 4 | 3 | 3 || Sk L Sp I D P || Sk L Sp I D P
 Mew/Mew                  | 4 | 2 | 2 | 4 | 4 | 2 || Sp L Sk D P I || Sp L Sk D P I
 Mew/Pixie                | 3 | 2 | 3 | 4 | 4 | 2 || Sp Sk L I D P || Sp Sk L I D P
 Mew/Tiger                | 3 | 2 | 3 | 4 | 4 | 2 || Sp Sk I L D P || Sp Sk I L D P
-Swimmer                  | 4 | 2 | 2 | 4 | 4 | 2 || Sp L Sk D P I || Sp L Sk D P I
+Swimmer                  | 3 | 2 | 3 | 4 | 3 | 3 || Sp L Sk D P I || Sk Sp L D I P
 Mocchi/Dragon            | 3 | 4 | 4 | 4 | 3 | 4 || D Sk I Sp P L || D Sk I P Sp L
 Mocchi/Durahan           | 3 | 3 | 3 | 4 | 3 | 4 || Sk D Sp I P L || Sk D Sp I P L
 Mocchi/Jell              | 3 | 3 | 3 | 4 | 3 | 4 || D Sk I Sp L P || D Sk I Sp L P
@@ -225,12 +225,12 @@ Mocchi/Kato              | 3 | 2 | 4 | 4 | 4 | 3 || I Sk Sp D L P || I Sk Sp D L
 Mocchi/Mocchi            | 3 | 3 | 3 | 4 | 4 | 4 || Sp Sk D I L P || Sp Sk D I L P
 Mocchi/Pixie             | 2 | 3 | 3 | 4 | 4 | 3 || Sp Sk D I P L || Sp Sk D I P L
 Mocchi/Tiger             | 3 | 3 | 3 | 4 | 4 | 3 || Sp Sk D I L P || Sp Sk D I L P
-Caloriena                | 3 | 3 | 3 | 4 | 4 | 4 || Sp Sk D I L P || Sp Sk D I L P
+Caloriena                | 3 | 4 | 4 | 4 | 3 | 4 || Sp Sk D I L P || Sk D I P Sp L
 Mocchini                 | 3 | 3 | 3 | 4 | 4 | 4 || Sp Sk D I L P || Sp Sk D I L P
 Mock/Joker               | 2 | 2 | 5 | 3 | 2 | 2 || L I Sk Sp P D || I Sk L Sp P D
 Mock/Mock                | 1 | 2 | 5 | 2 | 2 | 2 || L I P Sp Sk D || I P Sp Sk D L
+Pole Mock                | 2 | 2 | 5 | 3 | 2 | 2 || L I P Sp Sk D || I Sk L P Sp D
 White Birch              | 1 | 2 | 5 | 2 | 2 | 2 || L I P Sp Sk D || I P Sp Sk D L
-Pole Mock                | 1 | 2 | 5 | 2 | 2 | 2 || L I P Sp Sk D || I P Sp Sk D L
 Monol/Gali               | 2 | 3 | 4 | 2 | 1 | 4 || D I P Sk L Sp || D I P Sk L Sp
 Monol/Golem              | 2 | 4 | 3 | 2 | 1 | 5 || D P I Sk L Sp || D P I Sk L Sp
 Monol/Hare               | 2 | 4 | 2 | 2 | 3 | 3 || P D Sp I Sk L || P D Sp I Sk L
@@ -243,8 +243,8 @@ Monol/Suezo              | 2 | 3 | 4 | 3 | 1 | 4 || I D Sk P L Sp || I D Sk P L 
 Monol/Tiger              | 2 | 3 | 3 | 3 | 2 | 3 || D I P Sk L Sp || D I P Sk L Sp
 Monol/Worm               | 3 | 3 | 3 | 2 | 1 | 4 || D I P L Sk Sp || D I P L Sk Sp
 Monol/Zuum               | 2 | 3 | 3 | 3 | 2 | 4 || D I P Sk L Sp || D I P Sk L Sp
-Galaxy                   | 2 | 3 | 3 | 2 | 1 | 5 || D I P L Sk Sp || D I P L Sk Sp
 Dominos                  | 2 | 3 | 3 | 2 | 1 | 5 || D I P L Sk Sp || D I P L Sk Sp
+Galaxy                   | 2 | 3 | 4 | 3 | 1 | 4 || D I P L Sk Sp || D I P Sk L Sp
 Scribble                 | 2 | 3 | 3 | 2 | 1 | 5 || D I P L Sk Sp || D I P L Sk Sp
 Naga/Gali                | 3 | 4 | 3 | 4 | 2 | 3 || P Sk D L I Sp || P Sk D L I Sp
 Naga/Golem               | 3 | 4 | 2 | 3 | 2 | 4 || P D L Sk I Sp || P D L Sk I Sp
@@ -258,7 +258,7 @@ Naga/Suezo               | 3 | 4 | 3 | 4 | 2 | 3 || P Sk L I D Sp || P Sk L I D 
 Naga/Tiger               | 3 | 3 | 2 | 4 | 3 | 2 || Sk P L Sp D I || Sk P L Sp D I
 Naga/Worm                | 4 | 4 | 2 | 4 | 2 | 3 || Sk P L D Sp I || Sk P L D Sp I
 Naga/Zuum                | 3 | 4 | 1 | 4 | 2 | 3 || P Sk D L Sp I || P Sk D L Sp I
-Time Noise               | 3 | 4 | 1 | 4 | 2 | 3 || P Sk D L Sp I || P Sk D L Sp I
+Time Noise               | 2 | 3 | 3 | 4 | 3 | 2 || P Sk D L Sp I || Sk P Sp I D L
 Niton/Bajarl             | 3 | 3 | 2 | 3 | 2 | 4 || Sk P D Sp L I || D Sk P L Sp I
 Niton/Durahan            | 3 | 3 | 2 | 2 | 2 | 5 || Sp P D L I Sk || D P L Sp I Sk
 Niton/Golem              | 3 | 3 | 2 | 2 | 2 | 5 || Sp P L D Sk I || D P L Sp Sk I
@@ -267,8 +267,8 @@ Niton/Kato               | 3 | 2 | 3 | 2 | 3 | 4 || D Sp I L Sk P || D Sp I L Sk
 Niton/Metalner           | 3 | 2 | 2 | 3 | 2 | 5 || D Sk I L Sp P || D Sk L I Sp P
 Niton/Mock               | 3 | 2 | 3 | 2 | 2 | 4 || D I L Sk P Sp || D I L Sk P Sp
 Niton/Niton              | 3 | 2 | 2 | 2 | 2 | 5 || D L Sk Sp P I || D L Sk Sp P I
-Dribbler                 | 3 | 2 | 2 | 2 | 2 | 5 || D L Sk Sp P I || D L Sk Sp P I
-Radial Niton             | 3 | 2 | 2 | 2 | 2 | 5 || D L Sk Sp P I || D L Sk Sp P I
+Dribbler                 | 3 | 2 | 2 | 3 | 2 | 5 || D L Sk Sp P I || D L Sk Sp P I
+Radial Niton             | 3 | 3 | 2 | 2 | 2 | 5 || D L Sk Sp P I || D L P Sk Sp I
 Disk Niton               | 3 | 2 | 2 | 2 | 2 | 5 || D L Sk Sp P I || D L Sk Sp P I
 Phoenix/Phoenix          | 3 | 1 | 5 | 3 | 3 | 3 || I L Sp P Sk D || I L Sp Sk D P
 Cinder Bird              | 3 | 1 | 5 | 3 | 3 | 3 || I L Sp P Sk D || I L Sp Sk D P
@@ -294,9 +294,9 @@ Pixie/Tiger              | 1 | 2 | 5 | 4 | 4 | 1 || I Sk Sp P D L || I Sk Sp P D
 Pixie/Worm               | 3 | 2 | 4 | 4 | 3 | 1 || Sk I Sp L P D || Sk I Sp L P D
 Pixie/Wracky             | 2 | 2 | 5 | 3 | 4 | 1 || I Sp Sk P D L || I Sp Sk P L D
 Pixie/Zuum               | 2 | 2 | 4 | 4 | 4 | 2 || Sk Sp I D P L || Sk Sp I D P L
-Poison                   | 1 | 2 | 5 | 4 | 4 | 1 || I Sk Sp P D L || I Sk Sp P D L
-Kasumi                   | 1 | 2 | 5 | 4 | 4 | 1 || I Sk Sp P D L || I Sk Sp P D L
-Mia                      | 1 | 2 | 5 | 4 | 4 | 1 || I Sk Sp P D L || I Sk Sp P D L
+Kasumi                   | 2 | 3 | 4 | 4 | 3 | 3 || I Sk Sp P D L || I Sk Sp P D L
+Mia                      | 2 | 3 | 5 | 4 | 4 | 1 || I Sk Sp P D L || I Sk Sp P L D
+Poison                   | 2 | 2 | 5 | 4 | 3 | 1 || I Sk Sp P D L || I Sk Sp P L D
 Plant/Gali               | 4 | 2 | 4 | 3 | 2 | 2 || L I Sk Sp D P || L I Sk Sp D P
 Plant/Golem              | 4 | 3 | 3 | 2 | 2 | 3 || L D P I Sk Sp || L D P I Sk Sp
 Plant/Hare               | 4 | 3 | 2 | 3 | 3 | 1 || L P Sk Sp I D || L P Sk Sp I D
@@ -309,7 +309,7 @@ Plant/Suezo              | 4 | 2 | 4 | 3 | 2 | 1 || I L Sk Sp P D || I L Sk Sp P
 Plant/Tiger              | 4 | 2 | 3 | 3 | 2 | 2 || L I Sk Sp P D || L I Sk Sp P D
 Plant/Worm               | 5 | 2 | 3 | 3 | 2 | 1 || L I Sk Sp P D || L I Sk Sp P D
 Plant/Zuum               | 4 | 2 | 3 | 3 | 2 | 2 || L I Sk Sp D P || L I Sk Sp D P
-Reggae Plant             | 5 | 1 | 3 | 3 | 2 | 1 || L I Sk Sp D P || L I Sk Sp D P
+Reggae Plant             | 3 | 1 | 4 | 3 | 3 | 1 || L I Sk Sp D P || I L Sk Sp D P
 Suezo/Gali               | 2 | 3 | 5 | 4 | 2 | 2 || I Sk P D Sp L || I Sk P D Sp L
 Suezo/Golem              | 2 | 3 | 5 | 4 | 2 | 2 || I Sk P D Sp L || I Sk P D Sp L
 Suezo/Hare               | 2 | 4 | 3 | 4 | 3 | 2 || P Sk I Sp D L || P Sk I Sp D L
@@ -323,10 +323,10 @@ Suezo/Tiger              | 2 | 3 | 5 | 4 | 3 | 2 || I Sk P Sp D L || I Sk P Sp D
 Suezo/Worm               | 3 | 3 | 4 | 4 | 2 | 2 || I Sk P L D Sp || I Sk P L D Sp
 Suezo/Zuum               | 2 | 3 | 4 | 4 | 2 | 2 || I Sk P D Sp L || I Sk P D Sp L
 Birdie                   | 2 | 3 | 5 | 4 | 2 | 2 || I Sk P D Sp L || I Sk P D Sp L
-Bronze Suezo             | 2 | 3 | 5 | 4 | 2 | 2 || I Sk P D Sp L || I Sk P D Sp L
-Silver Suezo             | 2 | 3 | 5 | 4 | 2 | 2 || I Sk P D Sp L || I Sk P D Sp L
+Bronze Suezo             | 2 | 3 | 3 | 4 | 2 | 2 || I Sk P D Sp L || Sk I P D Sp L
+Silver Suezo             | 2 | 3 | 4 | 3 | 2 | 3 || I Sk P D Sp L || I Sk P D Sp L
 Gold Suezo               | 2 | 3 | 5 | 4 | 2 | 2 || I Sk P D Sp L || I Sk P D Sp L
-Sueki Suezo              | 2 | 3 | 5 | 4 | 2 | 2 || I Sk P D Sp L || I Sk P D Sp L
+Sueki Suezo              | 1 | 1 | 1 | 1 | 1 | 1 || I Sk P D Sp L || I Sk P D Sp L
 Tiger/Gali               | 2 | 2 | 4 | 4 | 3 | 2 || Sk Sp I P L D || Sk I Sp P L D
 Tiger/Golem              | 2 | 3 | 4 | 3 | 3 | 3 || I Sp D Sk P L || I Sp D Sk P L
 Tiger/Hare               | 2 | 3 | 3 | 4 | 4 | 1 || Sk Sp I P L D || Sk Sp I P L D
@@ -355,7 +355,7 @@ Worm/Suezo               | 4 | 3 | 4 | 3 | 1 | 2 || L I P Sk D Sp || L I P Sk D 
 Worm/Tiger               | 4 | 3 | 3 | 4 | 2 | 2 || L Sk I P Sp D || L Sk I P Sp D
 Worm/Worm                | 5 | 3 | 3 | 3 | 1 | 2 || L Sk I P D Sp || L Sk I P D Sp
 Worm/Zuum                | 4 | 3 | 3 | 3 | 2 | 2 || L I Sk P Sp D || L I Sk P Sp D
-Express Worm             | 5 | 3 | 3 | 3 | 1 | 2 || L Sk I P D Sp || L Sk I P D Sp
+Express Worm             | 5 | 2 | 3 | 3 | 1 | 2 || L Sk I P D Sp || L Sk I P D Sp
 Wracky/Bajarl            | 3 | 2 | 3 | 2 | 4 | 1 || Sp I Sk L P D || Sp I L Sk P D
 Wracky/Dragon            | 3 | 3 | 4 | 2 | 3 | 2 || I Sp P L Sk D || I Sp P L Sk D
 Wracky/Durahan           | 3 | 2 | 4 | 2 | 3 | 3 || I Sp D Sk L P || I Sp D L Sk P
@@ -366,13 +366,13 @@ Wracky/Metalner          | 3 | 1 | 3 | 3 | 3 | 3 || Sp I D Sk L P || Sp I D Sk L
 Wracky/Mock              | 3 | 1 | 4 | 1 | 3 | 1 || I Sp L P Sk D || I Sp L P Sk D
 Wracky/Pixie             | 2 | 1 | 4 | 2 | 4 | 1 || Sp I Sk L D P || Sp I Sk L D P
 Wracky/Wracky            | 3 | 1 | 4 | 1 | 4 | 1 || Sp I Sk D L P || Sp I L Sk D P
-Satan Clause             | 3 | 1 | 4 | 1 | 4 | 1 || Sp I Sk D L P || Sp I L Sk D P
+Satan Clause             | 3 | 3 | 4 | 1 | 3 | 3 || Sp I Sk D L P || I Sp D L P Sk
 Zilla/Jell               | 4 | 4 | 3 | 2 | 2 | 3 || P I D L Sp Sk || P L I D Sp Sk
 Zilla/Pixie              | 3 | 4 | 3 | 2 | 3 | 2 || P L I Sp D Sk || P L I Sp D Sk
 Zilla/Tiger              | 3 | 4 | 3 | 3 | 3 | 2 || P L I Sp Sk D || P L I Sp Sk D
 Zilla/Zilla              | 4 | 5 | 2 | 1 | 2 | 3 || P L D I Sp Sk || P L D I Sp Sk
-Deluxe Liner             | 4 | 5 | 2 | 1 | 2 | 3 || P L D I Sp Sk || P L D I Sp Sk
-Zuum/Arrow Head          | 3 | 3 | 2 | 4 | 3 | 4 || Sk D L P Sp I || Sk D L P Sp I
+Deluxe Liner             | 3 | 4 | 3 | 2 | 3 | 2 || P L D I Sp Sk || P L I Sp D Sk
+Zuum/Arrowhead           | 3 | 3 | 2 | 4 | 3 | 4 || Sk D L P Sp I || Sk D L P Sp I
 Zuum/Bajarl              | 3 | 3 | 2 | 4 | 3 | 3 || Sk L P D Sp I || Sk L P D Sp I
 Zuum/Baku                | 4 | 3 | 2 | 3 | 2 | 3 || L P Sk D Sp I || L P Sk D Sp I
 Zuum/Dragon              | 2 | 3 | 3 | 4 | 3 | 2 || Sk P I Sp L D || Sk P I Sp L D
@@ -391,4 +391,4 @@ Zuum/Suezo               | 3 | 3 | 3 | 4 | 3 | 3 || Sk L D Sp P I || Sk L D Sp P
 Zuum/Tiger               | 3 | 3 | 3 | 4 | 3 | 2 || Sk L P Sp I D || Sk L P Sp I D
 Zuum/Worm                | 4 | 3 | 2 | 4 | 2 | 3 || L Sk D P I Sp || L Sk D P I Sp
 Zuum/Zuum                | 3 | 3 | 2 | 4 | 3 | 3 || Sk L P D Sp I || Sk L P D Sp I
-ZebraSaurian             | 3 | 3 | 2 | 4 | 3 | 3 || Sk L P D Sp I || Sk L P D Sp I
+ZebraSaurian             | 2 | 3 | 3 | 4 | 3 | 2 || Sk L P D Sp I || Sk P Sp I L D
