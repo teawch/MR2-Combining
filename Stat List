@@ -50,7 +50,7 @@ Centaur/Golem            | 3 | 4 | 4 | 3 | 2 | 3 || Sp I P D Sk L || I P D Sk L 
 Centaur/Joker            | 3 | 3 | 4 | 5 | 2 | 2 || Sk Sp I P L D || Sk I P L Sp D
 Centaur/Pixie            | 2 | 3 | 4 | 5 | 3 | 2 || Sk I Sp P D L || Sk I Sp P D L
 Centaur/Tiger            | 3 | 3 | 4 | 5 | 3 | 2 || Sp Sk I P L D || Sk I Sp P L D
-Blue Thunder             | 3 | 4 | 4 | 4 | 2 | 2 || Sk Sp I P L D || Sk I P L Sp D
+Blue Thunder             | 3 | 3 | 4 | 5 | 2 | 2 || Sk Sp I P L D || Sk I P L Sp D
 Trotter                  | 3 | 3 | 4 | 5 | 3 | 2 || Sk Sp I P L D || Sk I Sp P L D
 Colorpandora/Colorpandora| 5 | 2 | 2 | 3 | 3 | 1 || L Sp Sk D P I || L Sp Sk P I D
 Colorpandora/Jell        | 4 | 2 | 3 | 3 | 3 | 2 || L Sp Sk D I P || L Sp Sk I D P
@@ -237,8 +237,8 @@ Monol/Hare               | 2 | 4 | 2 | 2 | 3 | 3 || P D Sp I Sk L || P D Sp I Sk
 Monol/Jell               | 2 | 3 | 3 | 3 | 1 | 5 || D I P Sk L Sp || D I P Sk L Sp
 Monol/Monol              | 2 | 3 | 3 | 2 | 1 | 5 || D I P L Sk Sp || D I P L Sk Sp
 Monol/Naga               | 2 | 3 | 2 | 3 | 1 | 4 || D Sk P I L Sp || D Sk P I L Sp
-Monol/Plant              | 3 | 2 | 3 | 2 | 1 | 3 || I D L P Sk Sp || I D L P Sk Sp
 Monol/Pixie              | 2 | 3 | 4 | 3 | 2 | 3 || I P D Sk L Sp || I P D Sk L Sp
+Monol/Plant              | 3 | 2 | 3 | 2 | 1 | 3 || I D L P Sk Sp || I D L P Sk Sp
 Monol/Suezo              | 2 | 3 | 4 | 3 | 1 | 4 || I D Sk P L Sp || I D Sk P L Sp
 Monol/Tiger              | 2 | 3 | 3 | 3 | 2 | 3 || D I P Sk L Sp || D I P Sk L Sp
 Monol/Worm               | 3 | 3 | 3 | 2 | 1 | 4 || D I P L Sk Sp || D I P L Sk Sp
